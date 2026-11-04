@@ -73,7 +73,5 @@ Each setup file appears in `setup\` from the episode that introduces it.
 
 | # | الحلقة | Topic | Code | ZIP | Changes |
 |---|---|---|---|---|---|
-| 1 | تثبيت Odoo 20 على Windows من الصفر | Install Odoo 20 on Windows | [ep-01]
-
-| 2 | واجهة Odoo من جوّا + أول موديول | Odoo UI tour and first module | [ep-02](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-02) |
-| 3 | أول Model: الدورات | First model: courses | [ep-03](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-03) | 
+| 1 | واجهة Odoo من جوّا + أول موديول | Odoo UI tour and first module | [ep-02](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-02) | — | — |
+| 2 | أول Model: الدورات | First model: courses | [ep-03](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-03) | — | — |
