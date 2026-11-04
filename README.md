@@ -70,8 +70,8 @@ Every episode is one commit with its own tag (`ep-01` ... `ep-33`), so you can g
 Each setup file appears in `setup\` from the episode that introduces it.
 
 ## Episodes
-
 | # | الحلقة | Topic | Code | ZIP | Changes |
 |---|---|---|---|---|---|
-| 1 | واجهة Odoo من جوّا + أول موديول | Odoo UI tour and first module | [ep-02](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-02) | — | — |
-| 2 | أول Model: الدورات | First model: courses | [ep-03](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-03) | — | — |
+| 1 | تثبيت Odoo 20 على Windows من الصفر | Install Odoo 20 on Windows | 
+| 2 | واجهة Odoo من جوّا + أول موديول | Odoo UI tour and first module | [ep-02](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-02) | [ZIP](https://github.com/AbdallatifTiyah/training-center-management/archive/refs/tags/ep-02.zip) | [diff](https://github.com/AbdallatifTiyah/training-center-management/compare/ep-01...ep-02) |
+| 3 | أول Model: الدورات | First model: courses | [ep-03](https://github.com/AbdallatifTiyah/training-center-management/tree/ep-03) | [ZIP](https://github.com/AbdallatifTiyah/training-center-management/archive/refs/tags/ep-03.zip) | [diff](https://github.com/AbdallatifTiyah/training-center-management/compare/ep-02...ep-03) |
